@@ -3,6 +3,7 @@
 This project details a bit about my personal interests in the form of a static website. It also includes all my personal contact details.
 
 Contents:
+
 1.images of the project
 
 2.installation and usage of proj.
