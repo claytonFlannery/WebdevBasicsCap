@@ -4,7 +4,9 @@ This project details a bit about my personal interests in the form of a static w
 
 Contents:
 1.images of the project
+
 2.installation and usage of proj.
+
 3.credits
 
 images of the working project:
